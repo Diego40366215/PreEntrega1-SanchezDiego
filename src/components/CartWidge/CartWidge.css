@@ -1,0 +1,6 @@
+.imgCarrito {
+    width: 100px;
+}
+.imgCarrito :hover {
+        background-color: rgb(156, 154, 154);
+    }
